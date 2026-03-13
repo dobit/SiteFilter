@@ -1,9 +1,9 @@
 {
-  "version": "1.2.6.26031301",
-  "download_url": "https://example.com/sitefilter/SiteFilter-1.2.6.26031301.zip",
+  "version": "1.2.6.26031302",
+  "download_url": "https://raw.githubusercontent.com/dobit/SiteFilter/refs/heads/main/SiteFilter-1.2.6.26031302.zip",
   "release_notes": "Bug fixes and performance improvements",
   "release_date": "2026-03-13",
-  "file_size": 12314112,
+  "file_size": 12314322,
   "file_size_mb": 11.74,
   "force_update": false
 }
