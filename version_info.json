@@ -1,9 +1,9 @@
 {
-  "version": "1.2.6.26031302",
-  "download_url": "https://raw.githubusercontent.com/dobit/SiteFilter/refs/heads/main/SiteFilter-1.2.6.26031302.zip",
-  "release_notes": "Bug fixes and performance improvements",
-  "release_date": "2026-03-13",
-  "file_size": 12314322,
-  "file_size_mb": 11.74,
+  "version": "1.2.6.26031402",
+  "download_url": "https://raw.githubusercontent.com/dobit/SiteFilter/refs/heads/main/SiteFilter-1.2.6.26031402.zip",
+  "release_notes": "- 修复更新功能，添加批处理脚本自更新机制，改进版本信息生成\n- 添加阻止系统休眠功能，确保网站分析过程中系统不会进入休眠状态\n- 优化URL导入功能：实现批量处理大文件，防止堆溢出，支持一次导入多个URL，自动处理重复，显示详细进度\n- Fix-statistics-logic\n- 更新版本到1.3.0.0",
+  "release_date": "2026-03-14",
+  "file_size": 16835678,
+  "file_size_mb": 16.06,
   "force_update": false
 }
